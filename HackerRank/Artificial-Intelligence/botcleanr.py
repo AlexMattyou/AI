@@ -1,4 +1,4 @@
-# https://www.hackerrank.com/challenges/botcleanr
+# https://www.hackerrank.com/challenges/botcleanr/submissions/game/306842160
 
 d = []
 def trash(board):
