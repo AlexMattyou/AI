@@ -1,5 +1,5 @@
-# [Predict the employee burn out rate](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-burnout-rate/problems/)
-### [Score: R² = 93.21](https://github.com/AlexMattyou/ProblemSolving/blob/main/HackerEarth/Machine-Learning/Predict-the-employee-burn-out-rate/Model.ipynb)
+# [Predict-the-lowest-price](https://www.hackerearth.com/practice/machine-learning/machine-learning-algorithms/beginners-guide-regression-analysis-plot-interpretations/practice-problems/machine-learning/predict-the-lowest-price-8-9ffabe00/)
+### [Score: R² = 97.58%](https://github.com/AlexMattyou/ProblemSolving/blob/main/HackerEarth/Machine-Learning/Predict-the-lowest-price/Model.ipynb)
 ## Problem Statement
 A leading global leader of e-commerce has over 150 million paid subscription users. One of the many perks of the subscription is the privilege of buying products at lower prices. For an upcoming sale, the organization has decided to promote local artisans and their products, to help them through these tough times. However, slashed prices may impact local artists.
 
